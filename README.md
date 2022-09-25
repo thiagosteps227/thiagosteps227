@@ -1,4 +1,4 @@
-## Hello, I am <strong>{Thiago dos Passos}!</strong>
+## Hello, I am <strong>Thiago dos Passos!</strong>
 
 > I'm a Software Engineer,MSc. Currently working for Holonic Inc. I'm a former Brazilian Navy Combat Diver
 
