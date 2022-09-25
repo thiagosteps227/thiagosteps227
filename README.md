@@ -1,6 +1,8 @@
 ## Hello, I am <strong>Thiago dos Passos</strong>
 
-> I'm a Software Engineer, MSc. Currently working as Backend Engineer at Holonic Inc. 
+> Software Engineer, MSc. 
+
+Currently working as Backend Engineer at Holonic Inc. 
 
 🔭 I'm working on a project using microservices with Springboot tools such as Spring Cloud API Gateway, and much more. You can find the repositories here in my github.
 
