@@ -4,7 +4,9 @@
 
 Currently working as Backend Engineer at Holonic Inc. 
 
-🔭 I'm working on a project using microservices with Springboot tools such as Spring Cloud API Gateway, and much more. You can find the repositories here in my github.
+🔭 I'm working on a project using microservices with Springboot tools such as Spring Cloud API Gateway, and much more. 
+
+You can find the repositories here in my github.
 
 ----
 
