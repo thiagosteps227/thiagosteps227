@@ -2,11 +2,10 @@
 
 > Software Engineer, MSc. 
 
-Currently working as Backend Engineer at Holonic Inc. 
 
-🔭 I'm working on a project using microservices with Springboot tools such as Spring Cloud API Gateway, and much more. 
+🔭 I'm working on a personal project using microservices with Springboot tools such as Spring Cloud API Gateway 
 
-You can find the repositories here in my github.
+You can find the repositories here in my github, once the project is finished.
 
 ----
 
