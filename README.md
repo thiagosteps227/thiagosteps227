@@ -3,9 +3,7 @@
 > Software Engineer, MSc. 
 
 
-🔭 I'm working on a personal project using microservices with Springboot tools such as Spring Cloud API Gateway 
-
-You can find the repositories here in my github, once the project is finished.
+🔭 Enjoy working with distributed systems and disruptive technologies, I have some experience with microservices, Machine Learning and Blockchain.
 
 ----
 
